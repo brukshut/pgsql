@@ -1,2 +1,6 @@
-# pgsql
-Useful Postgres SQL Snippets
+# brukshut/pgsql
+
+Some useful postgresql queries to monitor databases.
+
+
+
